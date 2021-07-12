@@ -1,0 +1,66 @@
+﻿In your own words, what is a computer really doing whenever you type a letter on a
+keyboard? (150 words max) 
+
+
+What the computer is doing when you type on a keyboard is checking to see what key you have pressed. Then it goes on to search for a saved image of that key in its memory. After that, the computer uses the part of its memory that is for the screen to paste your chosen letter there.
+
+
+In your own words, how do computers use input and output to create experiences? (250words max)
+
+
+The input and output are the entrance and exit of the computer. The input is you requesting or asking the computer to do something. Once you ask it will process what it is that you wanted. The output is where what was asked for gets sent out to where you can see it, which is the screen.
+
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150
+words max)
+
+
+
+
+Explain in your own words how code becomes software. (150 words max)
+
+
+For code to become software first the code is changed to a language that the machine can understand. Then after that the machine groups the code. Lastly runs it.
+
+
+Explain “algorithms” in your own words. (150 words max)
+
+
+An algorithm is a way of problem-solving faster with shorter steps. An algorithm can be used as a way to not have to repeat other lines of code.
+
+
+Explain the DRY principle. (100 words max)
+
+
+The DRY principle is saying that while developing code you should write things once so when looking through all you wrote you only have to check one place instead of multiple.
+
+
+In your own words, what is object-oriented programming? (100 words max)
+
+
+Object-oriented programming is when a group of procedures or properties are under one label. Allowing it to run when that label is used.
+
+
+In your own words explain data and how it relates to code. (100 Words Max)
+
+
+Data is information that can be displayed or retrieved, while code is what you use to tell the data what to do. 
+
+
+What is a framework? (150 words max)
+
+
+A framework is a place where developers can create things and perform tasks without having to create new code that may be common.
+
+
+What is debugging? (150 words max)
+
+
+Debugging is when someone checks your code for errors while it is actively running, and whatever problem there is can be fixed.
+
+
+Now, with more of an understanding of what code is, why do you want to learn how to
+code? (500 words max)
+
+
+I want to learn how to code because it is something that runs most of the world and being involved in it to me has many advantages such as jobs because there is always someone looking for a coder whether it is for apps, websites or otherings. I have seen a website that has interactive artwork and at the sametime informs the viewers about the topic. Another reason I want to learn to code is because I find it interesting to write in a language that the computer can process and push out what you envision.
