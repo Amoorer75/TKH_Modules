@@ -1,0 +1,16 @@
+﻿• What is Git and how is it different than Github
+
+
+GitHub hosts your projects on the web where other people can have access to them. Whereas Git is a management tool for tracking changes inside of your files and folders.
+
+
+• Why use the terminal
+
+
+Terminal is a tool that can be used to navigate through files. You can also create and move files on the computer.
+
+
+• Explain 3 benefits of version control in your own words
+
+
+One benefit of version control is that you can see if the stuff you put into version 2 will have any negative effects on version 1. The second benefit you receive by doing version control is it is useful in group projects so you can see the changes that have been done by other members. Lastly if the current version of a project end up not working you can fall back to a previous version.
